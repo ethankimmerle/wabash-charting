@@ -1,0 +1,9 @@
+{
+  "name": "Wabash Charting",
+  "short_name": "Charting",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a6192e",
+  "icons": [{ "src": "pitcher.png", "sizes": "130x95", "type": "image/png" }]
+}
